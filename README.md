@@ -1,5 +1,6 @@
 ### Hi there 👋
 Trilingual (English, Japanese, Chinese) front end dev in Tokyo
+Content creation on the side
 
 <!--
 **haharimoto/haharimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
