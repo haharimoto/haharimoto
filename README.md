@@ -1,5 +1,5 @@
 ### Hi there 👋
-Trilingual (English, Japanese, Chinese) front end dev in Tokyo
+Trilingual (English, Japanese, Chinese) front-end developer in Tokyo
 
 📸Content creation on the side
 
