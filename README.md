@@ -1,5 +1,5 @@
 ### Hi there 👋
-multilingual (English, Japanese, Chinese) full-stack developer in Tokyo
+multilingual (English, Japanese, Mandarin) full-stack developer in Tokyo
 
 📸Content creation on the side
 
